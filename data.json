@@ -1,0 +1,134 @@
+{
+	"header": {
+		"avatarUrl": "https://nadiar.id/wp-content/uploads/2019/10/avatar.jpeg",
+		"hero": {
+			"name": "Nadiar AS",
+			"jobTitle": "Mobile Tech Lead",
+			"description": "Currently working as Mobile Tech Lead at one of the best ed-tech company in Indonesia. Creating and developing an application that serves as an end-to-end solution for the education sector in Indonesia"
+		}
+	},
+	"body": {
+		"sidebar": {
+			"contact": {
+				"email": "nadiar.as@pm.me",
+				"phone": "+6285223866185",
+				"address": "Jakarta Selatan, Indonesia",
+				"linkedIn": "https://www.linkedin.com/in/nadiar-as-93792165/",
+				"github": "https://github.com/codxse",
+				"medium": "https://medium.com/@codxse",
+				"twitter": "https://twitter.com/codxse",
+				"instagram": "https://www.instagram.com/virtalien/",
+				"website": "https://nadiar.info/blog"
+			},
+			"skills": [
+				"Mobile Depelopment",
+				"Website Development",
+				"Software Automation",
+				"Software Architecture",
+				"Software Abstraction",
+				"Functional Programming",
+				"Object Oriented Programming",
+				"Clean Code Architecture",
+				"Search Engine Optimization"
+			],
+			"technologies": ["Flutter", "Android Kotlin Development", "iOS Swift Development", "Clojure", "ClojureScript", "ReactJS", "ReactNative", "Dart", "Firebase", "Firestore", "Java", "Gradle", "JavaScript", "NPM", "XML/HTML", "CSS", "CircleCI", "Bash", "WordPress", "PHP"],
+			"languages": [
+				{
+					"language": "Indonesia",
+					"expertise": 5
+				},
+				{
+					"language": "English",
+					"expertise": 3
+				}
+			],
+			"interest": ["Blogging", "Programming", "Mobile Technology", "Footbal", "Badminton", "Startup", "Automation", "UI/UX", "Software Architecture"]
+		},
+		"content": {
+			"experience": [
+				{
+					"jobTitle": "Mobile Tech Lead - Zenius Mobile App",
+					"company": "Zenius Education",
+					"year": "08/2019 - Present",
+					"description": "By November Zenius must be ready for bigger impact, as active users grow; the app must be scalable and robust. My job is create coding standard and improving architecture that scale easily as the team more bigger",
+					"tasks": [
+						"In charge of mentoring, helping, and training junior developer",
+						"Developing and maintaining Zenius App",
+						"Create coding standard",
+						"Implement layered clean architecture that scale",
+						"Refactoring Zenius App as App grow",
+						"Fixing bugs"
+					],
+					"images": [
+						{
+							"imgUrl": "https://lh3.googleusercontent.com/5mL8sI10dhzjFa9_YNcLgyQIy_7guOhin-KpKev7l1VteTh7JSPBS7cac_TGAuQHw30=w1440-h620-rw",
+							"title": "Zenius App home",
+							"description": "https://play.google.com/store/apps/details?id=net.zenius.mobile&hl=en"
+						},
+						{
+							"imgUrl": "https://lh3.googleusercontent.com/8mOzv14qngDUbMzSiztEUYZK6mqHMSGHmz5XU_PId0fcp9LYzF_RIwpE705VLA7y670=w1440-h620-rw",
+							"title": "Zenius App video streaming",
+							"description": "https://play.google.com/store/apps/details?id=net.zenius.mobile&hl=en"
+						}
+					]
+				},
+				{
+					"jobTitle": "Front-end Engineer - Zenius.net",
+					"company": "Zenius Education",
+					"year": "01/2019 - 07/2019",
+					"description": "Using Clojurescript and any other tools, my responsibility is to maintaining, creating and implementing UI design; bug fixing; maintaining soal-automation library, create HTML/CSS coding standard.",
+					"experiences": [
+						"Developing and maintaining Zenius CBT Online 2.0 platform (also called Zenpres Try Out). The stack is using Clojure at the backend and ClojureScript and Firebase at the frontend. From January 2019 to February 2019, this platform succeed carry out online Try Out which was attended by more than 7000 students from all over Indonesia.",
+						"Building text to image generator for Zenpres Tryout and Mobile App. At Zenius, teacher/tutor writing some problem using text/html/latex. By this generator, the text is converted automatically to image.",
+						"Migrating Zenius.net PHP dynamic page to Single Page App using ClojureScript ReactJS Technology"
+					],
+					"images": [
+						{
+							"imgUrl": "https://clupclup.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-12-at-14.36.54-min.png",
+							"title": "Zenius Website",
+							"description": "https://www.zenius.net"
+						},
+						{
+							"imgUrl": "https://clupclup.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-12-at-14.37.32-min.png",
+							"title": "Zenius Website - Content",
+							"description": "https://www.zenius.net/c/387/battlegrounds-and-the-challenges"
+						}
+					]
+				},
+				{
+					"jobTitle": "Fullstack Software Developer - Inneta.id",
+					"company": "Indonesia EduTech Association (INETA)",
+					"year": "06/2018 - 10/2018",
+					"description": "Indonesian Edtech Association, founded in early 2018 to be a platform that brings together all Edtech actors in Indonesia. INETA aims to amplify the presence of Edtech organizations and activities in Indonesia to the public. There have been little awareness among Indonesians on Edtech and its potentials.",
+					"experiences": [
+						"Creating, maintaining, deploying, and securing INETA website"
+					],
+					"images": [
+						{
+							"imgUrl": "https://clupclup.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-12-at-14.49.03-min.png",
+							"title": "Indonesian Edtech Association",
+							"description": "https://www.ineta.id"
+						}
+					]
+				},
+				{
+					"jobTitle": "Front-end Developer - Business Development",
+					"company": "Zenius Education",
+					"year": "08/2017 - 12/2018",
+					"description": "Mostly working as front-end developer. Since joining Zenius I learnt LISP technology like Clojure/ClojureScript and even CommonLisp.",
+					"experiences": [
+						"Prototyping Zenius Prestasi App",
+						"Prototyping Zenius CBT",
+						"Maintaining Bank Soal Generator"
+					]
+				}
+			],
+			"education": {
+				"degree": "Computer Science (S.Kom)",
+				"school": "Computer University of Indonesia (UNIKOM)",
+				"year": "09/2011 - 09/2016",
+				"GPA": "3.26/4"
+			}
+		}
+	}
+}
