@@ -1,0 +1,14 @@
+{:lein   true
+
+ :nrepl {:port 8777}
+
+ :builds {:app {:target          :browser
+                :output-dir      "resources/public/js/compiled"
+                :asset-path      "/js/compiled"
+                :dependencies    [[re-view/re-frame-simple "0.1.4"]
+                                  [day8.re-frame/http-fx "v0.2.0"]]
+                :modules         {:app {:init-fn id.nadiar.cv.core/init
+                                        :preloads [devtools.preload]}}
+                :devtools        {:http-root    "resources/public"
+                                  :http-port    8280
+                                  }}}}
