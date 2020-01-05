@@ -141,7 +141,7 @@
 
 (defn download-cv [] 
   (let [a (.createElement js/document "a") 
-        _ (set! (.-href a) "https://github.com/ReScience-Archives/Stollmeier-2017/raw/master/article/Stollmeier-2017.pdf")
+        _ (set! (.-href a) "https://github.com/codxse/my-cv/raw/master/NadiarAS_CV.pdf")
         _ (set! (.-download a) "NadiarAS_CV.pdf")
         _ (set! (.-style a) "display: none")] 
     (.dispatchEvent a (js/MouseEvent. "click"))))
