@@ -79,7 +79,7 @@
    [:thead 
     [:tr 
      [:th "#"] 
-     [:th [:h4 {:style {:margin 0}} "08/2019 - Present"]]]]
+     [:th [:h4 {:style {:margin 0}} (:year data)]]]]
    (let [jobTitle (:jobTitle data)
          company (:company data)
          description (:description data)
